@@ -1,6 +1,3 @@
-The course homework
-I will write my notes here. 
-
 You should use option "--language". Example of launching from terminal:
 
 pytest --language=es
